@@ -10,7 +10,7 @@ echo "# _GitHubSandbox" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/volpid/_GitHubSandbox.git
+git remote add origin <url>
 git push -u origin master
 ```
 
@@ -18,6 +18,6 @@ git push -u origin master
 
 ```
 Copy to clipboard 
-git remote add origin https://github.com/volpid/_GitHubSandbox.git
+git remote add origin <url>
 git push -u origin master
 ```
