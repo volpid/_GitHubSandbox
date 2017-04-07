@@ -18,6 +18,7 @@
 > git config --global i18n.logOutputEncoding \<cp949/utf8\>
 
 * 이그노어 파일
+
 > .gitignore
 > <br/>
 > &nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,6 +35,7 @@
 
 
 * 리포지토리 관련
+
 > git init
 > <br/>
 > git clone \<url\>
