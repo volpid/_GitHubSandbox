@@ -36,6 +36,8 @@
 * 리모트 브랜치 삭제
 
 > git push \<remote\> **:\<branch\>**
+> 
+> git fetch --all **--prune** 
 
 * 브랜치 전환
 

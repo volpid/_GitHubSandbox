@@ -43,3 +43,7 @@ git revert | file-level | \(N/A\)
 > clean -f : 강제  
 > clean -d : 디렉토리  
 > clean -x, -X : 이그노어 파일  
+
+* 파일 체크 아웃
+> checkout -- \<file\>
+> checkout -- .
